@@ -12,7 +12,7 @@ var wd = {};
 
 // Default config
 wd.config = {
-	database: mydatabase,
+	database: 'mydatabase',
 	table: undefined, // undefined to export all tables
 	version: '1.0',
 	info: '',
