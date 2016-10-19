@@ -16,7 +16,7 @@ wd.config = {
 	table: undefined, // undefined to export all tables
 	version: '1.0',
 	info: '',
-	dbsize: 5 * 1024 * 1024, // 5MB
+	dbsize: 65536, // 5MB
 	linebreaks: false,
 	schemaonly: false,
 	dataonly: false,
